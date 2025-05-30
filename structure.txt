@@ -1,0 +1,15 @@
+.
+├── controllers
+│   └── book-controller.js
+├── database
+│   └── db.js
+├── models
+│   └── book.js
+├── package-lock.json
+├── package.json
+├── routes
+│   └── book-routes.js
+├── server.js
+└── structure.txt
+
+5 directories, 8 files
